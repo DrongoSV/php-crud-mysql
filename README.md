@@ -1,4 +1,4 @@
-# PHP-MYSQL CRUD Operations!
+# crud operation php mysql!
 
 - git clone the repository
 
